@@ -38,4 +38,3 @@ Re-run the installer and choose:
 ## 🛡️ License
 
 MIT
-EOF
